@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vamshi-Medamaina
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me vamshimedamaina7340@gmail.com
   
 
